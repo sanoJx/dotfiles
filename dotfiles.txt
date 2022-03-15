@@ -1,0 +1,4 @@
+~/.config/nvim init.vim
+~/.config/polybar config.ini
+~/.config/picom picom.conf
+~/.config/i3 config
